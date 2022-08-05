@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RopstamTask</string>
+    <string name="rentickle">Rentickle</string>
+    <string name="gurgoon">Gurgoon</string>
+    <string name="search_hint">Search for Furniture, appliance etc.</string>
+    <string name="our_cat">Our Categories</string>
+    <string name="bed_room">Bed Room</string>
+    <string name="living_room">Living Room</string>
+    <string name="dslr_camera">DSLR Camera</string>
+    <string name="applications">Applications</string>
+    <string name="storage">Storage</string>
+    <string name="packages">Packages</string>
+    <string name="trending_products">Trending Products</string>
+</resources>
